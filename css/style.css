@@ -44,6 +44,14 @@
 .nav-link{
     font-weight: 600 !important;
 }
+.navbar-collapse .btn{
+    border-radius: 5px !important;
+}
+.navbar-collapse .btn:hover{
+    background-color: #fff !important;
+    border: 1px solid #20A626;
+    color: #20A626 !important;
+}
 /* ************************************ */
 /* Home */
 /* .home-main{
